@@ -1,5 +1,5 @@
 spec:
-  name: sample-flask
+    name: citation_recommender
   services:
     - name: web
       git:

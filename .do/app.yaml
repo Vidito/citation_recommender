@@ -1,4 +1,4 @@
-name: citation-recommender
+name: citation_recommender
 services:
   - name: web
     github:
