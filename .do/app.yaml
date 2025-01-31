@@ -1,0 +1,6 @@
+name: citation-recommender
+services:
+  - name: web
+    github:
+      repo: Vidito/citation_recommender
+      branch: main
