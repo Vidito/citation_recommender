@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Journal Recommender</title>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/gh/vidito/vidicss@1.3/styles.min.css"
+    />
+  </head>
+  <body>
+    <div>
+      <h1>Journal Recommender</h1>
+      <h4 style="margin-bottom: 1rem">
+        Enter your abstract below to find journals that are a good fit for your
+        research (No more than 400 words).
+      </h4>
+      <p style='margin: 1rem 0;'>Please Note that only journals in the fields of Language and Linguistics (Applied or else) are available</p>
+      <textarea
+        id="abstract"
+        rows="5"
+        placeholder="Enter your abstract..."
+      ></textarea>
+      <button onclick="getRecommendations()">Find Journals</button>
+
+      <div id="results"></div>
+    </div>
+    <footer style="margin-top: 2rem">
+      <p>
+        Made with ❤️ by Vahid Niamadpour
+      </p>
+
+    <script>
+      async function getRecommendations() {
+        const abstract = document.getElementById('abstract').value;
+        if (!abstract) {
+          alert('Please enter an abstract.');
+          return;
+        }
+
+        const response = await fetch('/recommend', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ abstract }),
+        });
+
+        const data = await response.json();
+
+        let resultsDiv = document.getElementById('results');
+        resultsDiv.innerHTML = '';
+
+        data.forEach((journal) => {
+          resultsDiv.innerHTML += `
+                    <article style="margin-top: 1rem;">
+                        <h2>${journal.name}</h2>
+                        <p>${journal.scope}</p>
+                        <p>Impact Factor: ${journal.impact_factor}</p>
+                        <a href="${journal.link}"  target="_blank">Visit Journal</a>
+                    </article>
+                `;
+        });
+      }
+    </script>
+  </body>
+</html>

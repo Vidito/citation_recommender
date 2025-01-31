@@ -1,0 +1,570 @@
+[
+  {
+    "name": "Assessing Writing",
+    "scope_aims": "Assessing Writing is a refereed international journal providing a forum for ideas, research and practice on the assessment of written language. Assessing Writing publishes articles, book reviews, conference reports, and academic exchanges concerning writing assessments of all kinds, including traditional ('direct' and standardised forms of) testing of writing, alternative performance assessments (such as portfolios), workplace sampling and classroom assessment. The journal focuses on all stages of the writing assessment process, including needs evaluation, assessment creation, implementation, and validation, and test development; it aims to value all perspectives on writing assessment as process, product and politics (test takers and raters; test developers and agencies; educational administrations; and political motivations). The journal is interested in review essays of key issues in the theory and practice of writing assessment.",
+    "keywords": [
+      "Writing Assessment",
+      "Written Language",
+      "Traditional Testing",
+      "Alternative Performance Assessments",
+      "Classroom Assessment",
+      "Test Development",
+      "Needs Evaluation",
+      "political power",
+      "language evaluation",
+      "language testing",
+      "language assessment",
+      "test Validation"
+    ],
+    "link": "https://www.sciencedirect.com/journal/assessing-writing",
+    "impact_factor": 4.2,
+    "open_access": false
+  },
+  {
+    "name": "Bilingualism: Language and Cognition",
+    "scope_aims": "Bilingualism: Language and Cognition is a quarterly peer-reviewed academic journal of linguistics focusing on the study of multilingualism, including bilingual language competence, perception and production, bilingual language acquisition in children and adults, neurolinguistics of bilingualism (in normal and brain-damaged populations), and non-linguistic cognitive processes in bilinguals. The aims of the journal are to promote research on the bilingual and multilingual person. Areas covered include: bilingual language competence, bilingual language processing, bilingual language acquisition in children and adults, bimodal bilingualism, neurolinguistics of bilingualism in normal and brain-damaged individuals, computational modelling of bilingual language competence and performance, and the study of cognitive functions in bilinguals.",
+    "keywords": [
+      "Multilingualism",
+      "Bilingual Language Competence",
+      "Bilingual Language Acquisition",
+      "Neurolinguistics of Bilingualism",
+      "Cognitive Processes in Bilinguals",
+      "cognitive processes in bilinguals"
+    ],
+    "link": "https://www.cambridge.org/core/journals/bilingualism-language-and-cognition",
+    "impact_factor": 2.5,
+    "open_access": false
+  },
+  {
+    "name": "Computational Linguistics",
+    "scope_aims": "Computational Linguistics is devoted to the computational and mathematical properties of language and the design and analysis of natural language processing systems. This highly regarded quarterly offers university and industry linguists, computational linguists, artificial intelligence and machine learning investigators, cognitive scientists, speech specialists, and philosophers the latest information about the computational aspects of all the facets of research on language.",
+    "keywords": [
+      "computational linguistics",
+      "artificial intelligence",
+      "machine learning",
+      "mathematical properties of language"
+    ],
+    "link": "https://direct.mit.edu/coli",
+    "impact_factor": 3.7,
+    "open_access": true
+  },
+  {
+    "name": "Discourse & Society",
+    "scope_aims": "Discourse & Society is an international, peer-reviewed journal that focuses on the study of discourse in social contexts. It aims to explore how discourse shapes and is shaped by social practices, power relations, and cultural norms. The journal publishes empirical studies, theoretical papers, and critical reviews that contribute to the understanding of discourse in various domains, including politics, media, and education.  It focuses on explicit theory formation and analysis of the relationships between the structures of text, talk, language use, verbal interaction or communication, on the one hand, and societal, political or cultural micro- and macrostructures and cognitive social representations, on the other hand. That is, D&S studies society through discourse and discourse through an analysis of its socio-political and cultural functions or implications.",
+    "keywords": [
+      "discourse analysis",
+      "social contexts",
+      "power relations",
+      "cultural norms",
+      "empirical studies",
+      "theoretical papers",
+      "media",
+      "political power",
+      "mainstream media",
+      "journalistic discourse",
+      "ideology"
+    ],
+    "link": "https://journals.sagepub.com/home/das",
+    "impact_factor": 2.4,
+    "open_access": false
+  },
+  {
+    "name": "Discourse Studies",
+    "scope_aims": "A leading journal in discourse analysis, focusing on the study of language in use. It publishes article in anthropology, ethnomethodology, cognitive and social psychology, communication studies and law.",
+    "keywords": [
+      "discourse analysis",
+      "language in use",
+      "discourse studies",
+      "pragmatics",
+      "sociolinguistics",
+      "multimodal analysis",
+      "conversation analysis",
+      "evaluative language",
+      "talk-in-interaction",
+      "critical discourse analysis"
+    ],
+    "link": "https://journals.sagepub.com/home/DIS",
+    "impact_factor": 1.4,
+    "open_access": false
+  },
+  {
+    "name": "ELT Journal",
+    "scope_aims": "A leading journal in English language teaching, publishing research on methodology, materials development, and teacher training. ELT Journal aims to provide a medium for informed discussion of the principles and practice which determine the ways in which English is taught and learnt around the world.",
+    "keywords": [
+      "ELT",
+      "English language teaching",
+      "methodology",
+      "materials development",
+      "teacher training",
+      "vocabulary learning",
+      "grammar",
+      "language pedagogy",
+      "teaching strategies"
+    ],
+    "link": "https://academic.oup.com/eltj",
+    "impact_factor": 3.1,
+    "open_access": false
+  },
+  {
+    "name": "English for Specific Purposes",
+    "scope_aims": "A leading journal in the field of English for Specific Purposes (ESP), publishing research on the teaching and learning of English for specific professional and occupational contexts.",
+    "keywords": [
+      "English for Specific Purposes",
+      "ESP",
+      "professional English",
+      "occupational English",
+      "language learning",
+      "business English",
+      "technical English",
+      "scientific English",
+      "workplace communication"
+    ],
+    "link": "https://www.sciencedirect.com/journal/english-for-specific-purposes",
+    "impact_factor": 3.2,
+    "open_access": false
+  },
+  {
+    "name": "IRAL - International Review of Applied Linguistics in Language Teaching",
+    "scope_aims": "International Review of Applied Linguistics in Language Teaching (IRAL) is devoted to problems of general and applied linguistics in their various forms. IRAL's long-term interest lies in areas of research which concern first and second language acquisition (including sign language and gestural systems). Contributions are welcome on naturalistic and instructed language learning, language loss, bilingualism, language contact, pidgins and creoles, language for specific purposes, language technology, mother tongue education, terminology and translation. The journal also features occasional thematic issues.",
+    "keywords": [
+      "applied linguistics",
+      "language teaching",
+      "linguistic theory",
+      "language pedagogy",
+      "vocabulary learning",
+      "grammar",
+      "second language acquisition",
+      "language curriculum development",
+      "language testing"
+    ],
+    "link": "https://www.degruyter.com/journal/key/iral/html",
+    "impact_factor": 1.4,
+    "open_access": false
+  },
+  {
+    "name": "International Journal of Corpus Linguistics",
+    "scope_aims": "A leading journal in corpus linguistics, publishing research on the use of large language corpora to study language.",
+    "keywords": [
+      "corpus linguistics",
+      "language corpora",
+      "corpus analysis",
+      "computational linguistics",
+      "contrastive linguistics",
+      "translation studies",
+      "corpus-based research",
+      "text analysis"
+    ],
+    "link": "https://benjamins.com/catalog/ijcl",
+    "impact_factor": 1.6,
+    "open_access": false
+  },
+  {
+    "name": "International journal of Applied Linguistics",
+    "scope_aims": "The international journal of applied linguistics, focusing on the practical application of linguistic theory to language teaching and learning, translation, and other areas. Within all possible domains and fields of applied linguistics, InJAL focuses on those most closely related to language use and learning in society: language policy, as the interplay of policy-making and practice; language in professions as the main domains of adult socialization; language in public discourse and media, the link between all other domains in an increasingly globalized and specialized world; translating between languages and registers, as the default mode of communication in a multilingual and heterogloss work-devided society. A fifth InJAL strand focuses on hidden topics in applied linguistics: swearing and taboo language for instance, all the yet under researched and delicate issues that counterpoint decent societal language use and its established investigation.",
+    "keywords": [
+      "applied linguistics",
+      "language teaching",
+      "language learning",
+      "translation",
+      "intercultural communication",
+      "language policy",
+      "language in professions",
+      "language in public discourse",
+      "identity",
+      "metalanguage",
+      "language acquisition",
+      "sociology",
+      "language testing and assessment"
+    ],
+    "link": "https://onlinelibrary.wiley.com/journal/14734192",
+    "impact_factor": 1.5,
+    "open_access": false
+  },
+  {
+    "name": "Journal of Child Language",
+    "scope_aims": "The international journal of applied linguistics, focusing on the practical application of linguistic theory to language teaching and learning, translation, and other areas. Within all possible domains and fields of applied linguistics, InJAL focuses on those most closely related to language use and learning in society: language policy, as the interplay of policy-making and practice; language in professions as the main domains of adult socialization; language in public discourse and media, the link between all other domains in an increasingly globalized and specialized world; translating between languages and registers, as the default mode of communication in a multilingual and heterogloss work-devided society. A fifth InJAL strand focuses on hidden topics in applied linguistics: swearing and taboo language for instance, all the yet under researched and delicate issues that counterpoint decent societal language use and its established investigation.",
+    "keywords": [
+      "applied linguistics",
+      "language teaching",
+      "language learning",
+      "translation",
+      "intercultural communication",
+      "language policy",
+      "language in professions",
+      "language in public discourse",
+      "identity",
+      "metalanguage",
+      "language acquisition",
+      "sociology",
+      "language testing and assessment"
+    ],
+    "link": "https://onlinelibrary.wiley.com/journal/14734192",
+    "impact_factor": 1.5,
+    "open_access": false
+  },
+  {
+    "name": "Journal of English for Academic Purposes",
+    "scope_aims": "A leading journal in the field of English for Academic Purposes (EAP), publishing research on the teaching and learning of English for academic contexts and for the purposes of academic study and scholarly exchange.",
+    "keywords": [
+      "English for Academic Purposes",
+      "EAP",
+      "academic writing",
+      "academic reading",
+      "academic discourse",
+      "genre analysis",
+      "language for specific purposes",
+      "writing pedagogy",
+      "academic literacy"
+    ],
+    "link": "https://www.sciencedirect.com/journal/journal-of-english-for-academic-purposes/about/aims-and-scope",
+    "impact_factor": 3.1,
+    "open_access": false
+  },
+  {
+    "name": "Journal of Linguistics",
+    "scope_aims": "A leading journal in general linguistics and theoretical linguistics, covering a wide range of topics including phonology, syntax, semantics, pragmatics, and sociolinguistics.",
+    "keywords": [
+      "linguistics",
+      "phonology",
+      "syntax",
+      "syntactic structure",
+      "semantics",
+      "pragmatics",
+      "sociolinguistics",
+      "morphology",
+      "historical linguistics",
+      "linguistic change"
+    ],
+    "link": "https://www.cambridge.org/core/journals/journal-of-linguistics",
+    "impact_factor": 0.8,
+    "open_access": false
+  },
+  {
+    "name": "Journal of Pragmatics",
+    "scope_aims": "A leading journal in pragmatics, the study of language use in context. The Journal of Pragmatics has provided a forum for bringing together a wide range of research in pragmatics, including cognitive pragmatics, corpus pragmatics, experimental pragmatics, historical pragmatics, interpersonal pragmatics, multimodal pragmatics, sociopragmatics, theoretical pragmatics and related fields. Our aim is to publish innovative pragmatic scholarship from all perspectives, which contributes to theories of how speakers produce and interpret language in different contexts drawing on attested data from a wide range of languages/cultures in different parts of the world.",
+    "keywords": [
+      "pragmatics",
+      "language use",
+      "contextualization",
+      "implicature",
+      "conversation analysis",
+      "speech acts",
+      "politeness",
+      "discourse markers",
+      "intercultural pragmatics",
+      "evaluative language"
+    ],
+    "link": "https://www.sciencedirect.com/journal/journal-of-pragmatics",
+    "impact_factor": 1.8,
+    "open_access": false
+  },
+  {
+    "name": "Journal of Psycholinguistic Research",
+    "scope_aims": "The Journal of Psycholinguistic Research publishes original research on the psychological and neurocognitive aspects of language processing. It covers a wide range of topics, including language acquisition, comprehension, production, and the relationship between language and thought. The journal aims to bridge the gap between linguistics and psychology, providing insights into how language is represented and processed in the mind. The Journal of Psycholinguistic Research covers a broad range of approaches to the study of the communicative process, including: the social and anthropological bases of communication; development of speech and language; semantics (problems in linguistic meaning); and biological foundations. It also examines the psychopathology of language and cognition as well as the neuropsychology of language and cognition.",
+    "keywords": [
+      "psycholinguistics",
+      "language processing",
+      "language acquisition",
+      "comprehension",
+      "production",
+      "neurocognition",
+      "language and thought",
+      "metacognitive development",
+      "cognitive development",
+      "metalinguistic awareness",
+      "cognitive abilities"
+    ],
+    "link": "https://link.springer.com/journal/10936",
+    "impact_factor": 1.6,
+    "open_access": false
+  },
+  {
+    "name": "Journal of Sociolinguistics",
+    "scope_aims": "The Journal of Sociolinguistics is a peer-reviewed academic journal that covers a wide range of topics in sociolinguistics. It aims to provide a multidisciplinary perspective on language in society, exploring issues such as language variation, identity, and social factors influencing language use. The journal publishes original research articles, reviews, and themed content that engages with contemporary sociolinguistic debates.",
+    "keywords": [
+      "sociolinguistics",
+      "language variation",
+      "identity",
+      "social factors",
+      "language use",
+      "Code-Switching",
+      "Language Change",
+      "Dialectology",
+      "Language Policy",
+      "Language and Identity",
+      "Ethnography of Communication"
+    ],
+    "link": "https://onlinelibrary.wiley.com/journal/14679841",
+    "impact_factor": 1.5,
+    "open_access": false
+  },
+  {
+    "name": "Language Acquisition",
+    "scope_aims": "Language Acquisition is an interdisciplinary journal serving the fields of first and second language acquisition. Research published in the journal addresses theoretical questions about language acquisition and language development from a variety of perspectives.",
+    "keywords": [
+      "Language Acquisition",
+      "first Language Acquisition",
+      "second Language Acquisition",
+      "language development"
+    ],
+    "link": "https://www.tandfonline.com/journals/hlac20",
+    "impact_factor": 1.3,
+    "open_access": false
+  },
+  {
+    "name": "Language Teaching",
+    "scope_aims": "A leading journal in language teaching research, publishing articles on a wide range of topics including methodology, materials development, and teacher education.",
+    "keywords": [
+      "language teaching",
+      "methodology",
+      "materials development",
+      "teacher education",
+      "vocabulary learning",
+      "grammar"
+    ],
+    "link": "https://www.cambridge.org/core/journals/language-teaching",
+    "impact_factor": 4,
+    "open_access": false
+  },
+  {
+    "name": "Language Teaching Research",
+    "scope_aims": "Language Teaching Research is a peer-reviewed journal that publishes research within the area of second or foreign language teaching.",
+    "keywords": [
+      "language teaching",
+      "methodology",
+      "materials development",
+      "teacher education",
+      "vocabulary learning",
+      "grammar",
+      "second language teaching",
+      "Materials design",
+      "Syllabus design"
+    ],
+    "link": "https://us.sagepub.com/en-us/nam/journal/language-teaching-research",
+    "impact_factor": 3.4,
+    "open_access": false
+  },
+  {
+    "name": "Language Testing",
+    "scope_aims": "Language Testing is an international peer reviewed journal that publishes original research on language testing, assessment, and evaluation.",
+    "keywords": [
+      "language testing",
+      "language assessment",
+      "language evaluation",
+      "test development",
+      "test design",
+      "test administration",
+      "test evaluation",
+      "test analysis",
+      "test synthesis",
+      "L2 Testing Policy",
+      "test validity",
+      "test reliability"
+    ],
+    "link": "https://us.sagepub.com/en-us/nam/journal/language-testing",
+    "impact_factor": 1.1,
+    "open_access": false
+  },
+  {
+    "name": "Language in Society",
+    "scope_aims": "Language in Society is a peer-reviewed journal that focuses on the relationship between language and social life. It publishes research that examines how language shapes and is shaped by social structures, cultural practices, and individual identities. The journal encourages interdisciplinary approaches and welcomes contributions from various fields, including sociology, anthropology, and linguistics.",
+    "keywords": [
+      "language and society",
+      "social structures",
+      "cultural practices",
+      "individual identities",
+      "sociology",
+      "anthropology"
+    ],
+    "link": "https://www.cambridge.org/core/journals/language-in-society",
+    "impact_factor": 2.0,
+    "open_access": false
+  },
+  {
+    "name": "Modern Language Journal (MLJ)",
+    "scope_aims": "The The Modern Language Journal (MLJ) is an international journal dedicated to promoting scholarly exchange among researchers and teachers of all modern foreign languages and English as a second language. We are particularly committed to publishing high quality work about non-English languages. Our focus is further defined by linking the findings of research to teaching and learning in a variety of settings and on all educational levels. Article contributions are expected to meet the highest standards of scholarly excellence, advance theoretical knowledge, and explore clearly stated and well supported implications for teaching.",
+    "keywords": [
+      "language teaching",
+      "EFL",
+      "TEFL",
+      "language learning",
+      "Teaching Implications"
+    ],
+    "link": "https://onlinelibrary.wiley.com/journal/15404781",
+    "impact_factor": 4.7,
+    "open_access": false
+  },
+  {
+    "name": "Reading and Writing",
+    "scope_aims": "Reading and Writing publishes high-quality scientific articles pertaining to the processes, acquisition, and loss of reading and writing skills. Coverage in Reading and Writing includes models of reading, writing and spelling at all age levels; orthography and its relation to reading and writing; computer literacy; cross-cultural studies; and developmental and acquired disorders of reading and writing.",
+    "keywords": [
+      "Reading Processes",
+      "Writing Processes",
+      "Acquisition of Literacy Skills",
+      "Spelling Models",
+      "Orthography"
+    ],
+    "link": "https://link.springer.com/journal/11145",
+    "impact_factor": 2.0,
+    "open_access": false
+  },
+  {
+    "name": "RECALL: The Journal of the European Association for Computer Assisted Language Learning",
+    "scope_aims": "A leading journal in computer-assisted language learning (CALL), publishing research on the use of technology to enhance language learning.",
+    "keywords": [
+      "CALL",
+      "computer-assisted language learning",
+      "technology-enhanced language learning",
+      "Digital Pedagogy",
+      "Digital Literacies",
+      "Computer-Mediated Communication",
+      "Learning Analytics",
+      "technology-enhanced learning",
+      "vocabulary learning",
+      "grammar"
+    ],
+    "link": "https://www.cambridge.org/core/journals/recall",
+    "impact_factor": 4.6,
+    "open_access": false
+  },
+  {
+    "name": "RELC Journal - A Journal of Language Teaching and Research",
+    "scope_aims": "A leading journal in Southeast Asian language teaching and research, publishing articles on a wide range of topics pertinent to language teaching and learning.",
+    "keywords": [
+      "Southeast Asian languages",
+      "language teaching",
+      "language policy",
+      "Language planning",
+      "curriculum development",
+      "teacher education",
+      "pedagogical implications",
+      "Language testing and assessment",
+      "Language teacher professional development",
+      "Global Englishes",
+      "intercultural language education",
+      "vocabulary learning",
+      "grammar"
+    ],
+    "link": "https://journals.sagepub.com/home/REL",
+    "impact_factor": 3.6,
+    "open_access": false
+  },
+  {
+    "name": "Research Methods in Applied Linguistics",
+    "scope_aims": "Research Methods in Applied Linguistics is the first and only journal devoted exclusively to research methods in applied linguistics, a discipline that explores real-world language-related issues and phenomena. The journal takes a domain-specific approach and publishes articles investigating current and new methodologies that have been developed for and/or are incorporated into the discipline of applied linguistics and its subdomains.  The journal welcomes research from all paradigms, be they quantitative, qualitative, or mixed, and methods of all kinds, whether they are utilized to observe the occurrence of a phenomenon or behavior, explore correlations, or examine causal relationships.",
+    "keywords": ["Research Methods", "methodology"],
+    "link": "https://www.sciencedirect.com/journal/research-methods-in-applied-linguistics",
+    "impact_factor": 4.1,
+    "open_access": false
+  },
+  {
+    "name": "Studies in Second Language Learning and Teaching",
+    "scope_aims": "Studies in Second Language Learning and Teaching is a refereed journal published four times a year by the Department of English Studies, Faculty of Pedagogy and Fine Arts, Adam Mickiewicz University, Kalisz, Poland. The language of publication is English. The journal is devoted to reporting theoretical and empirical research on learning and teaching second and foreign languages. It deals with the learning and teaching of any language, not only English, and focuses on a variety of topics ranging from the processes underlying second language acquisition, various aspects of language learning in instructed and non-instructed settings, as well as different facets of the teaching process, including syllabus choice, materials design, classroom practices and evaluation.",
+    "keywords": [
+      "syllabus choice",
+      "materials design",
+      "teaching methodology",
+      "non-instructed settings",
+      "methodology",
+      "instructed setting",
+      "TEFL",
+      "SLA",
+      "Second Language learning"
+    ],
+    "link": "https://pressto.amu.edu.pl/index.php/ssllt",
+    "impact_factor": 0,
+    "open_access": true
+  },
+  {
+    "name": "System: An International Journal of Educational Technology and Applied Linguistics",
+    "scope_aims": "A leading journal in educational technology and applied linguistics, publishing research on the use of technology to enhance language learning and teaching.",
+    "keywords": [
+      "educational technology",
+      "applied linguistics",
+      "technology-enhanced language learning",
+      "language teaching",
+      "ducational technology",
+      "EFl",
+      "TEFL",
+      "vocabulary learning",
+      "grammar"
+    ],
+    "link": "https://www.sciencedirect.com/journal/system",
+    "impact_factor": 4.9,
+    "open_access": false
+  },
+  {
+    "name": "TESOL Journal",
+    "scope_aims": "A leading journal in TESOL (Teaching English to Speakers of Other Languages), publishing research on language teaching methodology, curriculum development, and teacher education. This international journal is devoted to the applications of educational technology and applied linguistics to problems of foreign language teaching and learning. Attention is paid to the learning and teaching of all languages (e.g. English, Chinese, Arabic, etc.) as second or foreign languages in all countries.",
+    "keywords": [
+      "TESOL",
+      "TEFL",
+      "language teaching",
+      "language learning",
+      "language learner",
+      "curriculum development",
+      "teacher education",
+      "vocabulary learning",
+      "grammar"
+    ],
+    "link": "https://onlinelibrary.wiley.com/journal/19493533",
+    "impact_factor": 1.3,
+    "open_access": false
+  },
+  {
+    "name": "TESOL Quarterly",
+    "scope_aims": "A leading journal in TESOL (Teaching English to Speakers of Other Languages), publishing research on language teaching methodology, curriculum development, and teacher education. TESOL Quarterly, a professional, refereed journal, was first published in 1967. The Quarterly encourages submission of previously unpublished articles on topics of signi\ufb01cance to individuals concerned with English language teaching and learning and standard English as a second dialect. As a publication that represents a variety of cross-disciplinary interests, both theoretical and practical, the Quarterly invites manuscripts on a wide range of topics, especially in the following areas: psychology and sociology of language learning and teaching issues in research and research methodology testing and evaluation professional preparation curriculum design and development instructional methods, materials, and techniques language planning professional standards Because the Quarterly is committed to publishing manuscripts that contribute to bridging theory and practice in our profession, it particularly welcomes submissions that address the implications and applications of research in, for example, anthropology applied and theoretical linguistics communication education English education, including reading and writing theory psycholinguistics psychology \ufb01rst and second language acquisition sociolinguistics",
+    "keywords": [
+      "TESOL",
+      "language teaching",
+      "language learning",
+      "curriculum development",
+      "teacher education",
+      "English education",
+      "first and second language acquisition",
+      "ESL",
+      "EFL",
+      "TEFL",
+      "vocabulary learning",
+      "grammar",
+      "bilingual education"
+    ],
+    "link": "https://onlinelibrary.wiley.com/journal/15457249",
+    "impact_factor": 3,
+    "open_access": false
+  },
+  {
+    "name": "The language learning journal (Tandfonline)",
+    "scope_aims": "the language learning journal (llj) is an academic, peer-reviewed journal, providing a forum for research and scholarly debate on current aspects of foreign and second language learning and teaching. its international readership includes foreign and second language teachers and teacher educators, researchers in language education and language acquisition, and educational policy makers. the journal takes a particularbut not exclusiveinterest in contexts where the language being learnt is little used outside of the learning environment, as well as in the teaching and learning of languages other than english. papers on the teaching and learning of english as a second language are welcomed where discussion can be generalised to other languages. submissions will normally be empirical in nature and are frequently underpinned by qualitative data. the following are key areas of interest: pedagogical practices in language learning classrooms classroom research and instructed language learning language learning skills and competences language learners and learner identity language learning in informal settings incl. study abroad methodological questions in language learning and teaching research multilingualism and multiculturalismlanguage teacher education and language teacher identities language education and language policydigital technologies and language learning and teachin ",
+    "keywords": [
+      "language learning",
+      "learner identity",
+      "Multilingualism",
+      "teacher education",
+      "language teacher identities",
+      "language learning and teaching",
+      "Classroom research",
+      "Pedagogical practices",
+      "Multilingualism and multiculturalism",
+      "vocabulary learning",
+      "grammar"
+    ],
+    "link": "https://www.tandfonline.com/journals/rllj20",
+    "impact_factor": 2.2,
+    "open_access": false
+  },
+  {
+    "name": "Writing Systems Research",
+    "scope_aims": "Writing Systems Research (WSR) publishes work concerned with any issue to do with the analysis, use and acquisition of writing systems (WSs) such as: 1. The linguistic analysis of writing systems at various levels (e.g. orthography, punctuation, typography), including comparative WS research. 2. The learning and use of writing systems, including: Learning to read and write in children (normal and disabled children, bilingual children acquiring two WSs, deaf children) and adults (illiterates, learners of second language WSs). The psycholinguistic processes of reading (grapheme recognition, word recognition) and writing (spelling, handwriting) in specific writing systems and in cross-orthographic comparisons. 3. Neurolinguistics and writing systems (e.g., lateralisation, reading pathologies, reading and writing disorders). 4. The correlates of writing systems: Writing systems and metalinguistic awareness (e.g., phonemic awareness, word awareness). Cognitive consequences of writing systems (e.g., visual memory, representations of time sequences). 5. Writing systems and computer/new media: Computers in reading and writing. Consequences of computers/new media on writing systems and their use. Computer modelling of writing systems.",
+    "keywords": [
+      "Writing Systems",
+      "Orthography",
+      "Punctuation",
+      "Cross-Orthographic Comparisons",
+      "phonemic awareness"
+    ],
+    "link": "https://www.tandfonline.com/journals/pwsr20",
+    "impact_factor": 0,
+    "open_access": false
+  }
+]

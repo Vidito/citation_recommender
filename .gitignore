@@ -1,0 +1,22 @@
+# Exclude Jupyter Notebook files
+*.ipynb
+
+# Exclude environment files
+.env
+
+# Additional common exclusions
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Exclude virtual environments
+venv/
+env/
+
+# Exclude IDE specific files
+.vscode/
+.idea/
+
+# Exclude system files
+.DS_Store
+Thumbs.db
