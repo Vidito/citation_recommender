@@ -1,7 +1,0 @@
-spec:
-    name: citation_recommender
-  services:
-    - name: web
-      git:
-        branch: main
-        repo_clone_url: https://github.com/Vidito/citation_recommender.git
